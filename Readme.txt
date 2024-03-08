@@ -1,5 +1,5 @@
-Όλη η υλοποίηση βρίσκεται στον folder game.
-Εκει υπάρχουν οι ακόλουθες κλασεις:
+The whole implementation is contained within the Simple_Poker_Game folder in python.
+The contents of the folder are the following:
 
 5 modules απο Agents:
 random_agent.py
@@ -20,3 +20,5 @@ simple_poker_round.py
 simple_poker_player.py
 simple_poker_dealer.py
 simple_poker_judger.py
+
+The same implementation is included in the Jupiter notebook presented in this folder
